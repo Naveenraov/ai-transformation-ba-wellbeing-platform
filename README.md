@@ -1,28 +1,32 @@
 # AI Transformation BA Portfolio
 ### Naveen Rao V — AI-Focused Business Analyst, Dublin, Ireland
 
-> Built as live portfolio and interview preparation for the **AI Transformation Partner** role at **Spectrum.Life**  
+> Built as live portfolio and interview preparation for the **AI Transformation Partner** role at **Spectrum.Life**
 > Workstream 1: Salesforce & Agentforce Automation · Workstream 2: Claude & AI Model Development
 
 ---
 
 ## About This Portfolio
 
-Spectrum.Life serves 7.5 million individuals, 4,000+ corporate clients, and 50+ universities across Ireland and the UK — growing at 60% year-on-year. Manual processes don't scale at that rate. This portfolio demonstrates how I would approach the AI transformation challenge: practically, clinically aware, and governance-first.
+Spectrum.Life is a whole-of-health digital platform serving 9.8 million insurance members, 3,000 corporate clients, and 60 universities across the UK and Ireland — targeting €100M in revenue by 2028. Their CEO Stephen Costello has set a clear ambition: automate 40-60% of all operational tasks using Claude, Salesforce, and Agentforce.
 
-Every project is built in the context of a digital mental health and wellbeing platform. Nothing is generic. Everything maps directly to Spectrum.Life's real operational challenges.
+This portfolio demonstrates end-to-end AI transformation capability across nine projects — from live Claude-powered clinical tools to full BA documentation, governance frameworks, Agentforce workflow design, and operational automation maps. Every project is built in the direct context of Spectrum.Life's real operational environment, technology stack, and strategic goals. Nothing is generic. Everything maps to real challenges.
 
 ---
 
-## The 5 Projects
+## The 9 Projects
 
-| Project | What It Is | Folder |
-|---|---|---|
-| **B — Clinical Triage Assistant** | Live Claude-powered intake triage tool. Working API. Screen-share ready. | [`project-b-clinical-triage/`](./project-b-clinical-triage/) |
-| **Main — AI Transformation BA Docs** | Full 6-file BA workstream — current state, requirements, solution design, governance, roadmap | [`main-project-ai-transformation/`](./main-project-ai-transformation/) |
-| **C — AI Ethics & Governance** | GDPR Article 9, EU AI Act, clinical safety, responsible AI framework | [`project-c-governance/`](./project-c-governance/) |
-| **A — Agentforce Workflow Design** | 3 Agentforce agent designs with full BA requirements specifications | [`project-a-agentforce/`](./project-a-agentforce/) |
-| **D — 12-Month Transformation Roadmap** | Executive-level roadmap built for CPO/CEO audience | [`project-d-roadmap/`](./project-d-roadmap/) |
+| # | Project | What It Is | Folder | Status |
+|---|---------|------------|--------|--------|
+| **B** | Clinical Intake Triage Assistant | Live Claude-powered intake triage tool. Working API. Prompt Engineering Library. Screen-share ready. | [`project-b-clinical-triage/`](./project-b-clinical-triage/) | ✅ Complete |
+| **Main** | AI Transformation BA Documentation | Full 6-document BA workstream — current state, requirements, solution design, governance, roadmap | [`main-project-ai-transformation/`](./main-project-ai-transformation/) | ✅ Complete |
+| **C** | Mental Health AI Ethics & Governance | GDPR Article 9, EU AI Act, clinical safety, responsible AI maturity model | [`project-c-governance/`](./project-c-governance/) | ✅ Complete |
+| **D** | Operations Automation Opportunity Map | 8 departments · 28 opportunities · 90-day quick win plan · Stephen's 40-60% automation target addressed | [`project-d-operations-automation-opportunity-map/`](./project-d-operations-automation-opportunity-map/) | ✅ Complete |
+| **E** | Claude Expansion Roadmap | From 1 HR chatbot to org-wide Claude adoption — structured, sequenced, and costed | [`project-e-claude-expansion-roadmap/`](./project-e-claude-expansion-roadmap/) | 🔨 Building |
+| **F** | Prompt Library — HR & Clinical | Governed, reusable prompt library for Spectrum.Life's two highest-volume teams using the CRAFT framework | [`project-f-prompt-library/`](./project-f-prompt-library/) | 🔨 Building |
+| **G** | Agentforce Use Case Discovery | First 3 Agentforce use cases scoped for Spectrum.Life's Salesforce DHOS — full BA requirements | [`project-g-agentforce-use-cases/`](./project-g-agentforce-use-cases/) | 🔨 Building |
+| **H** | AI Governance Framework | Internal responsible AI governance to match Cara's CE-certified external standard | [`project-h-ai-governance/`](./project-h-ai-governance/) | 🔨 Building |
+| **I** | CaseFlow — Live Claude Demo | Working Claude-powered tool that solves a real named pain point for Spectrum.Life's Case Manager team | [`project-i-caseflow/`](./project-i-caseflow/) | 🔨 Building |
 
 ---
 
@@ -31,21 +35,36 @@ Every project is built in the context of a digital mental health and wellbeing p
 | JD Requirement | Where It's Demonstrated |
 |---|---|
 | Hands-on Claude / LLM experience | Project B — live API, structured prompts, working artifact |
-| Prompt design & reusable templates | Project B — 7-prompt library with full design rationale |
-| Salesforce & Agentforce | Project A — 3 agent designs, BA specs, process flows |
+| Prompt design & reusable templates | Project B — 5-technique prompt library · Project F — governed prompt library |
+| Salesforce & Agentforce | Project G — 3 Agentforce use cases, BA specs, process flows |
 | Process mapping & requirements | Main Project — current state assessment + full requirements spec |
-| AI governance & GDPR | Project C + Main Project Doc 05 |
-| Executive communication | Project D — 12-month roadmap, CPO/CEO format |
+| AI governance & GDPR | Project C + Project H + Main Project Doc 05 |
+| Executive communication | Project D — automation opportunity map · Project E — Claude expansion roadmap |
 | Clinical environment awareness | All projects — safeguarding, GDPR Art. 9, human-in-the-loop |
 | Automation ROI tracking | Main Project Doc 06 — KPIs, cost savings, dashboard design |
+| Operations automation | Project D — 28 opportunities mapped across 8 departments |
+| Live AI demo | Project B — clinical triage · Project I — CaseFlow case manager assistant |
+
+---
+
+## Technology Stack Covered
+
+| Technology | Projects |
+|---|---|
+| **Claude (Anthropic)** — API, Projects, Skills, Artifacts | B, D, E, F, H, I |
+| **Salesforce** — DHOS, Flows, process automation | D, E, G |
+| **Agentforce** — Use case design, BA requirements | G |
+| **GDPR Article 9** — Special category clinical data | C, H, Main |
+| **EU AI Act** — High-risk AI classification, compliance | C, H |
+| **Prompt Engineering** — CRAFT framework, governed libraries | B, F |
 
 ---
 
 ## Author
 
-**Naveen Rao V**  
-Business Analyst — AI & Automation | Claude & LLM Workflows | CRM & Salesforce Automation | Agile Delivery  
-Dublin, Ireland · [linkedin.com/in/naveen-rao-v-01593a169](https://linkedin.com/in/naveen-rao-v-01593a169)  
+**Naveen Rao V**
+Business Analyst — AI & Automation | Claude & LLM Workflows | CRM & Salesforce Automation | Agile Delivery
+Dublin, Ireland · [linkedin.com/in/naveen-rao-v-01593a169](https://linkedin.com/in/naveen-rao-v-01593a169)
 MSc Data Analytics, NCI Dublin · Certified ScrumMaster · Google Prompting Essentials · Claude 101
 
 ---
